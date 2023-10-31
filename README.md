@@ -1,4 +1,4 @@
-# Micron180
+# Micron Plus V2.6018
 Backup of Voron Micron Plus (180mm) configuration files
 
 Build as a kit from Fabreeko.
